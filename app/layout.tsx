@@ -21,7 +21,7 @@
 //       <body className={`${inter.className}  bg-[#030014] overflow-y-scroll overflow-x-hidden`}>
 //       <StarsCanvas />
 //         <Navbar />
-        
+
 //         {children}
 //         </body>
 //     </html>
@@ -38,8 +38,8 @@ import Footer from "@/Components/main/Footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Space Portfolio",
-  description: "This is my portfolio",
+  title: "Ankit Verma's Portfolio",
+  description: "Hi, I'm Ankit verma and this is my personal portfolio",
 };
 
 export default function RootLayout({

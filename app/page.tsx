@@ -1,12 +1,9 @@
-import Encryption from '@/Components/main/Encryption'
-import Footer from '@/Components/main/Footer'
-import Hero from '@/Components/main/Hero'
-import Projects from '@/Components/main/Projects'
-import Skills from '@/Components/main/Skills'
-import Image from 'next/image'
-
-
-
+import Encryption from "@/Components/main/Encryption";
+// import Footer from '@/Components/main/Footer'
+import Hero from "@/Components/main/Hero";
+import Projects from "@/Components/main/Projects";
+import Skills from "@/Components/main/Skills";
+// import Image from 'next/image'
 
 export default function Home() {
   return (
